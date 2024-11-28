@@ -1,6 +1,7 @@
 # Airline API Project
 
 Youtube video linki: https://www.youtube.com/watch?v=QgvTXzLimak
+
 ER diagram linki: https://hizliresim.com/tclkvnu
 
 
