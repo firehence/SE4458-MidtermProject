@@ -2,6 +2,8 @@
 
 Youtube video linki: https://www.youtube.com/watch?v=QgvTXzLimak
 
+Google Drive linki: https://drive.google.com/file/d/1hlA6j5Ha2F5wIrYiKstc5NKOnZRsjTrI/view?usp=sharing
+
 ER diagram linki: https://hizliresim.com/tclkvnu
 
 
