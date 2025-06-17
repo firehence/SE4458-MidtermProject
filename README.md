@@ -1,10 +1,6 @@
 # Airline API Project
 
-Youtube video linki: https://www.youtube.com/watch?v=QgvTXzLimak
-
 Google Drive linki: https://drive.google.com/file/d/1hlA6j5Ha2F5wIrYiKstc5NKOnZRsjTrI/view?usp=sharing
-
-ER diagram linki: https://hizliresim.com/tclkvnu
 
 
 This is a simple API project for managing flights and ticketing for a fictitious airline company, developed using Python and Flask. The API allows admins to manage flights, and clients can book tickets and check-in for flights.
